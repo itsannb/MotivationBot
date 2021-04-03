@@ -1,0 +1,5 @@
+For this bot to run there are certain things that are needed:
+#1 python version has to be greater than 3.5
+#2 download the same python version as the version you are currently using on your text editor
+#3 when downloading that version make sure to go to files > python (whatever version) > Install Certificates.command
+#4 additionally open terminal and write "pip3 install discord" to install discord.py package
